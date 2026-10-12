@@ -1,0 +1,11 @@
+﻿Station ID;Station Name;Station ID & Name;River Name;District;Upazila;Region;Tidal Status;Flow Status;Latitude;Longitude;BTM_X;BTM_Y
+Chandpur 1640;Chandpur 1640;Chandpur 1640;Dakatia;Chandpur;Chandpur Sadar;South-East;Tidal;Perennial;23.22098;90.651716;566963.69;567837.47
+Char Montaj;Char Montaj;Char Montaj;Rabnabad Channel-Tentulia;Patuakhali;Galachipa;South-West;Tidal;Perennial;21.904494;90.509741;552934.72;422049.88
+Char Ramdaspur 1620;Char Ramdaspur 1620;Char Ramdaspur 1620;Tentulia;Barishal;Mehendiganj;South-West;Tidal;Perennial;22.818138;90.595889;561432.99;523217.03
+Chitalkhali 1610;Chitalkhali 1610;Chitalkhali 1610;Shahbazpur Channel-Lower Meghna;Lakshmipur;Ramgati;South-East;Tidal;Perennial;22.659409;90.903213;593078.80;505804.97
+Dasmina 0810;Dasmina 0810;Dasmina 0810;Tentulia (Barisal);Patuakhali;Dashmina;South-West;Tidal;Perennial;22.235616;90.551491;557114.61;458716.56
+Dhulasur;Dhulasur;Dhulasur;Tentulia, Rabnabad;Patuakhali;Kalapara;South-West;Tidal;Perennial;21.870721;90.256854;526820.10;418246.55
+Dhulia 0820;Dhulia 0820;Dhulia 0820;Algi;Patuakhali;Bauphal;South-West;Tidal;Perennial;22.559863;90.533287;555111.36;494602.00
+Monpura 1030;Monpura 1030;Monpura 1030;Shahbazpur Channel;Bhola;Monpura;South-West;Tidal;Perennial;22.25855;90.961526;599354.72;461466.49
+Tajumuddin 1031;Tajumuddin 1031;Tajumuddin 1031;Shahbazpur Channel;Bhola;Lalmohon;South-West;Tidal;Perennial;22.336107;90.832967;586060.53;469973.27
+Charchenga;;;;;;South-East;Tidal;Perennial;22.227753;91.066911;;
